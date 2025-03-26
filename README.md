@@ -31,7 +31,7 @@ Please read about the future of the Firebase Admin PHP SDK on the
 ## Installation
 
 ```bash
-composer require kreait/laravel-firebase
+composer require helmab/laravel-firebase
 ```
 
 ## Configuration
